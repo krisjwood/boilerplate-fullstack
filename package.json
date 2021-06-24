@@ -1,0 +1,20 @@
+{
+  "name": "boilerplate-fullstack",
+  "version": "1.0.0",
+  "description": "Boilerplate template for ful stack - sql, node, express, jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krjw-00/boilerplate-fullstack.git"
+  },
+  "keywords": [],
+  "author": "Kris Wood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krjw-00/boilerplate-fullstack/issues"
+  },
+  "homepage": "https://github.com/krjw-00/boilerplate-fullstack#readme"
+}
